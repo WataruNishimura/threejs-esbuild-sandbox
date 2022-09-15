@@ -1,0 +1,16 @@
+{
+  "name": "threejs-esbuild-sandbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "packageManager": "yarn@3.2.3",
+  "dependencies": {
+    "three": "^0.144.0"
+  },
+  "devDependencies": {
+    "@chialab/esbuild-plugin-html": "^0.17.0",
+    "esbuild": "^0.15.7",
+    "esbuild-plugin-clear": "^1.0.1"
+  }
+}
